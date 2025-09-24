@@ -7,7 +7,7 @@ _Use Markdown syntax to format your text and add links, images, and other media.
 __Drop your photo here:__
 ![Me]()
 
-I'm [Your Name], a [Your Profession/Role] based in [Your Location]. I have a passion for [Your Interests or Hobbies].
+I'm Margarita, a Project Manager based in Athens, Greece. I have a passion for music, traveling and good food.
 
 # My journey
 My journey with Lightcode began when I applied for Lightcode Academy.
